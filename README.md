@@ -7,6 +7,10 @@ I enjoy combining **software development and security principles** to build appl
 
 I’m always eager to expand my knowledge, take on new challenges, and grow as a future cybersecurity professional.
 
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemhuMDNweGU5Z2c2Mm9qaXBkcHg2eWx6dzRtdGU4cGZyanVod3FybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="400" />
+</p>
+
 ---
 
 ## 🔐 Skills & Technologies  
