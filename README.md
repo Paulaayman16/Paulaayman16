@@ -23,9 +23,10 @@ I’m always eager to expand my knowledge, take on new challenges, and grow as a
 
 ## 🌐 Connect with me  
 
-<a href="[https://www.linkedin.com/in/PAULA-LINKEDIN-USERNAME/](https://www.linkedin.com/in/paula-mikhail-a43b772b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)" target="_blank">
+<a href="https://www.linkedin.com/in/paula-mikhail-a43b772b0" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 
 <a href="mailto:paulaayman12@email.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
