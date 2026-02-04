@@ -36,7 +36,7 @@ I’m always eager to expand my knowledge, take on new challenges, and grow as a
 
 ## 🐍 Contribution Snake  
 
-![Snake](https://raw.githubusercontent.com/Paulaayman16/Paulaayman16/output/github-contribution-grid-snake-dark.svg)
+![Snake](https://raw.githubusercontent.com/Paulaayman16/Paulaayman16/main/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
