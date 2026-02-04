@@ -2,7 +2,7 @@
   <tr>
     <td width="70%" valign="top">
 
-# Hello, I'm Paula Ayman 👋
+# Hello, I'm Paula Mikhail 👋
 
 I’m a **Computer Science junior with a focus on Cybersecurity** at **Middle Tennessee State University (MTSU)**.  
 I’m deeply interested in understanding how systems work under the hood—and how to protect them from vulnerabilities and attacks.
