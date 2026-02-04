@@ -1,4 +1,9 @@
-<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemhuMDNweGU5Z2c2Mm9qaXBkcHg2eWx6dzRtdGU4cGZyanVod3FybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="280"/>
+<img
+  align="right"
+  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemhuMDNweGU5Z2c2Mm9qaXBkcHg2eWx6dzRtdGU4cGZyanVod3FybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"
+  width="240"
+  style="margin-top: 40px; margin-left: 20px;"
+/>
 
 # Hello, I'm Paula Ayman 👋  
 
