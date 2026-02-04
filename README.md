@@ -14,6 +14,7 @@ I enjoy combining **software development and security principles** to build appl
 
 I’m always eager to expand my knowledge, take on new challenges, and grow as a future cybersecurity professional.
 
+<br/>
 ---
 
 ## 🔐 Skills & Technologies  
